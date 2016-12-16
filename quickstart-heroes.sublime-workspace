@@ -1,0 +1,550 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fil",
+				"filter\tmethod"
+			],
+			[
+				"hero",
+				"heroes\tproperty"
+			],
+			[
+				"const",
+				"constructor\tkeyword"
+			],
+			[
+				"style",
+				"styleUrls\tproperty"
+			],
+			[
+				"Hero",
+				"HeroService\talias"
+			],
+			[
+				"re",
+				"registerHandlers"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/components/hero/hero-detail.component.ts",
+			"settings":
+			{
+				"buffer_size": 994,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/components/hero/hero-detail.component.html",
+			"settings":
+			{
+				"buffer_size": 338,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/components/hero/hero.service.ts",
+			"settings":
+			{
+				"buffer_size": 1967,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/components/heroes/heroes.component.ts",
+			"settings":
+			{
+				"buffer_size": 1254,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/components/heroes/heroes.component.css",
+			"settings":
+			{
+				"buffer_size": 795,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/components/heroes/heroes.component.html",
+			"settings":
+			{
+				"buffer_size": 611,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list packages",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 104.0,
+		"history":
+		[
+			"npm  -version",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"."
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/components",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/components/hero",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/components/heroes",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/shared"
+	],
+	"file_history":
+	[
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/components/hero/hero-detail.component.css",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/components/hero/hero-detail.component.html",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/components/heroes/heroes.component.ts",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/components/hero/hero-detail.component.ts",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/systemjs.config.js",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/app.component.css",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/components/dashboard/dashboard.component.html",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/components/dashboard/dashboard.component.ts",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/app-routing.module.ts",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/app.component.ts",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/app.module.ts",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/components/hero/hero.service.ts",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/shared/mock-heroes.ts",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/index.html",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/components/hero/hero.ts",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/scripts/services/hero.ts",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/scripts/models/mock-heroes.ts",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/hero.service.ts",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/hero-detail.component.ts",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/views/hero.html",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/styles/styles.css",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/hero.ts",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/views/heroes.html",
+		"/C/z_Storage/Websites/angularjs/quickstart-heroes/app/main.ts",
+		"/C/z_Storage/apps/Sublime Text Build 3114 x64/Data/Packages/User/Package Control.sublime-settings",
+		"/C/z_Storage/Websites/angularjs/courses/01-getting-started-with-angular2/src/services-intro/xhr-headers.ts",
+		"/C/z_Storage/Websites/GLV_2016/site/index.html",
+		"/C/z_Storage/Websites/GLV_2016/site/sandbox/geoTest.html",
+		"/C/z_Storage/Websites/test.html",
+		"/C/z_Storage/Websites/GLV_2016/site/sftp-config.json",
+		"/C/z_Storage/Websites/GLV_2016/site/phpScripts/api.php",
+		"/C/z_Storage/Websites/GLV_2016/site/portfolio/aurelia/basic-aurelia-project/src/main.ts",
+		"/C/z_Storage/Websites/GLV_2016/site/portfolio/aurelia/basic-aurelia-project/src/app.ts",
+		"/C/z_Storage/Websites/GLV_2016/site/portfolio/aurelia/basic-aurelia-project/src/todo.ts",
+		"/C/z_Storage/Websites/GLV_2016/site/portfolio/aurelia/basic-aurelia-project/src/app.html",
+		"/C/z_Storage/Websites/GLV_2016/site/portfolio/aurelia/basic-aurelia-project/app.html",
+		"/C/z_Storage/Websites/GLV_2016/site/portfolio/aurelia/basic-aurelia-project/index.html",
+		"/C/z_Storage/Websites/GLV_2016/site/portfolio/aurelia/basic-aurelia-project/jsconfig.json",
+		"/C/z_Storage/Websites/GLV_2016/site/portfolio/aurelia/basic-aurelia-project/basic-aurelia.sublime-project"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\z_Storage\\Websites\\angularjs\\quickstart-heroes\\app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"styles.css",
+			"heroes.component.html",
+			"getHero",
+			"heroes.component",
+			"fancybox",
+			"href",
+			"doMasonry",
+			"addFancyBox",
+			"fancybox",
+			"mobile",
+			"col-md",
+			"mason",
+			"_1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/components/hero/hero-detail.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								643,
+								643
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/components/hero/hero-detail.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								338,
+								338
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/components/hero/hero.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1877,
+								1877
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 616.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/components/heroes/heroes.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								496,
+								496
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/components/heroes/heroes.component.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/components/heroes/heroes.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								531,
+								531
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 308.0
+	},
+	"pinned_build_system": "",
+	"project": "quickstart-heroes.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
