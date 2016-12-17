@@ -1,4 +1,4 @@
-# Angular2 Heroes Tutorial (my rendition)
+# Angular2 "Tour of Heroes" Tutorial (my rendition)
 
 **This is not the perfect arrangement for your application. It is not designed for production.
 It exists primarily to get you started quickly with learning and prototyping in Angular**
